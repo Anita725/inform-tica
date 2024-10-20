@@ -8,15 +8,18 @@
 * [Países e bandeiras](#Burndown)
   
 ## Apresentação Pessoal
-https://www.canva.com/design/DAGNUbD9w60/HjyzfhkwK3iBiFnxeU8VJQ/edit?utm_content=DAGNUbD9w60&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+![Apresentação pessoal](https://github.com/user-attachments/assets/69c4cb5d-d6a6-4bc9-8041-f04f7b4f493c)
 
 ## Fórmulas e dados abertos
-https://fatecspgov-my.sharepoint.com/:x:/r/personal/anita_monte_fatec_sp_gov_br/Documents/Quantidade%20de%20alunos%20estrangeiros%20por%20nacionalidade_2%C2%B0%20Semestre%202023.xlsx?d=w22003af5198e4011b46908075fd2a878&csf=1&web=1&e=PDTQcl
+Utilizando os dados de "Quantidade de alunos estrangeiros por nacionalidade" e as fórmulas  SOMA, CONT.SE, SOMASE e SE, respondi as perguntas criadas pela professora e criei gráficos:
+![Gráficos](https://github.com/user-attachments/assets/def9f345-de29-4052-8378-082e629795b4)
+
 
 ## Planilhas, Formulas e Dados Abertos
+Utilizando os dados de "Entidades e organizações de assitência social no estado de SP" e as fórmulas SOMA, CONT.SE, SOMASE e SE, elaborei 5 perguntas e gráficos:
+![Gráficos 1](https://github.com/user-attachments/assets/27d24549-02a1-4968-9cb5-4ea00a606c2e)
 
-https://fatecspgov-my.sharepoint.com/:x:/r/personal/andreza_claudino_fatec_sp_gov_br/Documents/Planilha%20f%C3%B3rmulas%20e%20dados%20abertos.xlsx?d=w60e4c08deed64d95bc4e107e53eeff70&csf=1&web=1&e=TspkJQ
 
-## Quarta tarefa: Power BI
-PAISES E BANDEIRAS
+## Países e bandeiras
+
 ### https://app.powerbi.com/groups/me/reports/dfb62890-8904-4ce7-ad32-a6e7c8e1b63d/ReportSection?experience=power-bi

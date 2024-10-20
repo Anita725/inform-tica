@@ -1,4 +1,12 @@
-# INFORMATICA
+# Atividades de Informática
+
+# Índice
+
+* [Apresentação Pessoal](#equipe)
+* [Fórmulas e dados abertos](#objetivo-do-projeto)
+* [Planilha, Formulas e Dados Abertos](#Sprints)
+* [Países e bandeiras](#Burndown)
+  
 ## Primeira Tarefa: Apresentação Pessoal: Canva
 https://www.canva.com/design/DAGNUbD9w60/HjyzfhkwK3iBiFnxeU8VJQ/edit?utm_content=DAGNUbD9w60&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 ## Segunda Tarefa: Fórmulas e dados abertos: Excel

@@ -19,7 +19,7 @@ Utilizando os dados de "Quantidade de alunos estrangeiros por nacionalidade" e a
 Utilizando os dados de "Entidades e organizações de assitência social no estado de SP" e as fórmulas SOMA, CONT.SE, SOMASE e SE, elaborei 5 perguntas e gráficos:
 ![Gráficos 1](https://github.com/user-attachments/assets/27d24549-02a1-4968-9cb5-4ea00a606c2e)
 
+## Tarefa 2: Power BI
+![Power BI](https://github.com/user-attachments/assets/0190d94b-f6d5-4d07-9fb9-8720d36a6b73)
 
-## Países e bandeiras
 
-### https://app.powerbi.com/groups/me/reports/dfb62890-8904-4ce7-ad32-a6e7c8e1b63d/ReportSection?experience=power-bi

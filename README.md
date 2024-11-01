@@ -22,4 +22,7 @@ Utilizando os dados de "Entidades e organizações de assitência social no esta
 ## Tarefa 2: Power BI
 ![Power BI](https://github.com/user-attachments/assets/0190d94b-f6d5-4d07-9fb9-8720d36a6b73)
 
+## Tarefa 3: Power BI
+![Tarefa 3](https://github.com/user-attachments/assets/97764106-ca20-44b2-944e-33c832346bd3)
+
 

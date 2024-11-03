@@ -3,9 +3,12 @@
 # Índice
 
 * [Apresentação Pessoal](#apresentação)
-* [Fórmulas e dados abertos](#objetivo-do-projeto)
-* [Planilha, Formulas e Dados Abertos](#Sprints)
-* [Países e bandeiras](#Burndown)
+* [Fórmulas e dados abertos](#fórmulas)
+* [Planilha, Formulas e Dados Abertos](#planilhas)
+* [Tarefa 1](#1)
+* [Tarefa 2](#2)
+* [Tarefa 3](#3)
+* 
   
 ## Apresentação Pessoal
 ![Apresentação pessoal](https://github.com/user-attachments/assets/69c4cb5d-d6a6-4bc9-8041-f04f7b4f493c)

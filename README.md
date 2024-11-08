@@ -8,7 +8,7 @@
 * [Tarefa 1](#1)
 * [Tarefa 2](#2)
 * [Tarefa 3](#3)
-* 
+* [Tarefa 4](#4)
   
 ## Apresentação Pessoal
 ![Apresentação pessoal](https://github.com/user-attachments/assets/69c4cb5d-d6a6-4bc9-8041-f04f7b4f493c)
@@ -30,4 +30,6 @@ Utilizando os dados de "Entidades e organizações de assitência social no esta
 ## Tarefa 3: Power BI
 ![Tarefa 3](https://github.com/user-attachments/assets/97764106-ca20-44b2-944e-33c832346bd3)
 
+## Tarefa 4: Power BI
+![image](https://github.com/user-attachments/assets/1e06507f-236d-4465-ab00-02f1fa862b22)
 

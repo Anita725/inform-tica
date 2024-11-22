@@ -9,6 +9,7 @@
 * [Tarefa 2](#2)
 * [Tarefa 3](#3)
 * [Tarefa 4](#4)
+* [Power Apps](#Vendas)
   
 ## Apresentação Pessoal
 ![Apresentação pessoal](https://github.com/user-attachments/assets/69c4cb5d-d6a6-4bc9-8041-f04f7b4f493c)
@@ -35,3 +36,7 @@ Utilizando os dados de "Entidades e organizações de assitência social no esta
 
 
 https://app.powerbi.com/view?r=eyJrIjoiYTJiM2VlOTUtYzhiNC00MjRhLWE5ZjMtN2RkN2MwMzFiNmRiIiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9
+
+## Power Apps
+![Power APPS](https://github.com/user-attachments/assets/56a2b63b-9950-4205-833f-eca0d0781bd2)
+

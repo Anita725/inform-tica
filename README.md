@@ -40,3 +40,7 @@ https://app.powerbi.com/view?r=eyJrIjoiYTJiM2VlOTUtYzhiNC00MjRhLWE5ZjMtN2RkN2MwM
 ## Power Apps
 ![Power APPS](https://github.com/user-attachments/assets/56a2b63b-9950-4205-833f-eca0d0781bd2)
 
+## Prova
+![Power BI 1](https://github.com/user-attachments/assets/8f3d97a6-5f8e-47d9-a74c-cc667cb02e9b)
+
+
